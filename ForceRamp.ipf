@@ -1,6 +1,6 @@
 #pragma rtGlobals=3		// Use modern global access method and strict wave access.
 #pragma version=2.1
-#include "::AR Data:SaveAsAsylumForceRamp"
+#include "::AR-Data:SaveAsAsylumForceRamp"
 
 // Version 2.0 notes
 // Created new functions for user interfaces with force ramps.  
